@@ -7,4 +7,3 @@ FROM n8nio/n8n:latest
 EXPOSE 5678
 
 # El comando de inicio (Render usará esto por defecto)
-CMD ["n8n"]
